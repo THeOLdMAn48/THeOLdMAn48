@@ -53,13 +53,18 @@
 An AI-powered system that detects emotions via facial recognition and recommends songs using **Spotify & YouTube APIs**.  
 [🔗 View Project](https://github.com/THeOLdMAn48/Emotion-Based-Song-Recommendation-V.2.0)
 
+![Banner](./photos/emotion.jpg)
 ### 🔹 Phishing Email Detection with Visualization 📧  
 Built a **machine learning model** to detect phishing emails with interactive data visualization using **Seaborn & Matplotlib**.  
 [🔗 View Project](https://github.com/THeOLdMAn48/PCAP-Malware-Traffic-Analysis-)
 
+![Banner](./photos/phish.jpg)
+
 ### 🔹 Sales Forecasting Dashboard 📊  
 Interactive **Streamlit + Prophet + Plotly** app for predicting sales trends with downloadable reports.  
 [🔗 View Project](https://github.com/THeOLdMAn48/sales-forecasting-dashboard)
+
+![Banner](./photos/sal-forecast.jpg)
 
 ---
 
@@ -83,4 +88,4 @@ Interactive **Streamlit + Prophet + Plotly** app for predicting sales trends wit
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/THeOLdMAn48)
+⭐️ From [THeOLdMAn48](https://github.com/THeOLdMAn48)
