@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey%F0%9F%91%8B%2C+I'm+Yaksh+%7C+Data+Scientist;Cybersecurity+Enthusiast;Always+learning+new+skills+and+tools" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Reporter+Code&size=30&pause=1000&color=1c7be8&center=true&vCenter=true&width=1000&lines=Hey%F0%9F%91%8B%2C+I'm+OM+%7C+Data+Scientist;Cybersecurity+Enthusiast;Always+learning+new+skills+and+tools" alt="Typing Animation">
 </p>
 
 ---
@@ -58,13 +58,20 @@ An AI-powered system that detects emotions via facial recognition and recommends
 Built a **machine learning model** to detect phishing emails with interactive data visualization using **Seaborn & Matplotlib**.  
 [🔗 View Project](https://github.com/THeOLdMAn48/PCAP-Malware-Traffic-Analysis-)
 
-![Banner](./photos/phish.jpg)
+![Banner](./photos/download.png)
 
 ### 🔹 Sales Forecasting Dashboard 📊  
 Interactive **Streamlit + Prophet + Plotly** app for predicting sales trends with downloadable reports.  
+
 [🔗 View Project](https://github.com/THeOLdMAn48/sales-forecasting-dashboard)
 
 ![Banner](./photos/sal-forecast.jpg)
+
+### 🔹 Resume screening 📊  
+AI-powered Streamlit app for screening resumes against job descriptions using **TF-IDF + cosine similarity**.
+[🔗 View Project](https://github.com/THeOLdMAn48/Resume-Screening)
+
+![Banner](./photos/resume-screen.jpg)
 
 ---
 
