@@ -3,9 +3,9 @@
 <!-- Typing SVG Banner -->
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Reporter+Code&size=30&pause=1000&color=1c7be8&center=true&vCenter=true&width=1000&lines=Hey%F0%9F%91%8B%2C+I'm+OM+Gohil+%7C+Cybersecurity+Enthusiast;Always+learning+new+skills+and+tools" alt="Typing Animation">
-</p>
+</p>  -->
 <p align="center" style="position: relative;">
-  -->
+
   <!-- Outer glow -->
 <img
     src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=100&color=fff3b0&center=true&vCenter=true&width=1000&lines=OM+Gohil+%7C+Cybersecurity+Professional;SOC+Monitoring%2C+Threat+Detection%2C+Incident+Response;Building+Secure+and+Resilient+Systems;Future+SOC+Engineer+%7C+Security+Architect"
